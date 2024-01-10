@@ -1,5 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=fcf5e7&height=150&section=header&text=LeeNaYoung240&fontColor=334b72&fontSize=70&animation=fadeIn&fontAlignY=55)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Venom&color=e9f2e5&height=150&section=header&text=Welcome!👋&fontColor=667895&fontSize=50&animation=fadeIn&fontAlignY=55)
+ 
+</div>
 <br/>
+
 <div align="center">
 🤞 Welcome my github profile 🤞
 </div>

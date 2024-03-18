@@ -48,7 +48,7 @@
  <br/> <br/>
 
  
-[![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeNaYoung240)](https://github.com/LeeNaYoung240/github-readme-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeNaYoung240&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeNaYoung240)](https://github.com/LeeNaYoung240/github-readme-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeNaYoung240&layout=compact)](https://github.com/LeeNaYoung240/github-readme-stats)
  </div>
  <br/>
 

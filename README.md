@@ -5,15 +5,14 @@
 <div align="center">
 🤞 Welcome my github profile 🤞
 </div>
-<br/><br/>
+<br/>
 <div align="center">
-
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LeeNaYoung240&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/LeeNaYoung240"
-  width="600"
-  height="300"
+  width="500"
+  height="400"
 />
 </a>
 <div align="center">
@@ -21,7 +20,6 @@
   </div>
 <br/> 
 <div align="center">
-
   
  📞 Contact 
 <br/>

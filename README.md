@@ -7,6 +7,10 @@
 </div>
 <br/>
 <div align="center">
+<br/><br/>
+<div align="center">
+  
+ ⛄ Total Contributions
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LeeNaYoung240&utm_content=farm">
 <img
@@ -18,11 +22,10 @@
 <div align="center">
 
   </div>
-<br/> 
+
 <div align="center">
   
  📞 Contact 
-<br/>
 <br/>
  <p align="center">
   <a href="https://www.instagram.com/240_2_or_0/">
@@ -41,8 +44,6 @@
 
 <div align="center">
 ⏰ Study log
-  
- <br/>
  <br/> <br/>
 
 

@@ -8,9 +8,20 @@
 <br/><br/>
 <div align="center">
 
+<div align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LeeNaYoung240&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/LeeNaYoung240"
+  width="600"
+  height="300"
+/>
+</a>
+<div align="center">
+
   </div>
 <br/> 
 <div align="center">
+
   
  📞 Contact 
 <br/>
@@ -61,7 +72,5 @@
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeNaYoung240&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeNaYoung240&layout=compact)
  </div>
  <br/>
-
-
 
 

@@ -2,12 +2,11 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20nayoung's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
 </div>
-<div align="center">
-🤞 Welcome my github profile 🤞
-</div>
+<h3 align="center">🤞 Welcome my github profile 🤞</h3>
+
 <br/>
 <div align="center">
-<br/><br/>
+<br/>
 <div align="center">
   
  ⛄ Total Contributions
